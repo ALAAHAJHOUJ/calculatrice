@@ -15,19 +15,20 @@ background-color: rgb(82, 69, 69);
 border-radius: 10px;
 }
 
-.ecran:hover
-{
-background-color:rgb(245, 231, 231) ;
-}
 
 .ecran
 {
 width: 92%;
 height:90px;
-background-color: rgb(198, 189, 189);
+background-color: rgb(181, 175, 175);
 border-radius: 10px;
 margin-left: 16px;
 margin-top: 15px;
+}
+
+.ecran:hover
+{
+background-color:rgb(247, 238, 238) ;
 }
 
 #conteneur
