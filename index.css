@@ -13,7 +13,7 @@ background-color: rgba(249, 237, 237, 0.733);
 {
 width:400px;
 height:600px;
-background-image: linear-gradient(to left,red,rgb(0, 149, 255));
+background-color:#6a6363;
 border-radius: 10px;
 box-shadow: 2px 37px 29px -18px rgb(0 0 0 / 37%);
 }
